@@ -7,6 +7,7 @@ I made this [site](https://klimstepuchev.github.io/Guitarist-Portfolio/) after p
 
 # Description
 * Adaptive
+* Menu Hamburger
 
 # Used
 * Flex
